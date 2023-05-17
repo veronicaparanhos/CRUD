@@ -1,4 +1,4 @@
-#  JS na web: crud com JavaScript assíncrono
+#  JS na web: CRUD com JavaScript assíncrono
 
 > Projeto realizado durante o curso de CRUD que é um acrônomo para as palavras em inglês create, read, update e delete. 
 
